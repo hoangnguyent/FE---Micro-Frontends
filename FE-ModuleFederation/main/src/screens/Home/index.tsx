@@ -4,6 +4,7 @@ import FeaturedProducts from './FeaturedProducts';
 import ProductSmallSlider from './ProductSmallSlider';
 import NewPosts from './NewPosts';
 import Banner from './Banner';
+import HoangNguyen from './HoangNguyen';
 
 
 const Homepage = () => {
@@ -14,6 +15,7 @@ const Homepage = () => {
       <Banner />
       <ProductSmallSlider/>
       <NewPosts />
+      <HoangNguyen />
     </>
   )
 }

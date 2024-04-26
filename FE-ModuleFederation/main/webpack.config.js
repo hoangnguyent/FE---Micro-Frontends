@@ -134,11 +134,12 @@ module.exports = {
       name: 'main',
       remotes: {
         account: `${remotes.account.scope}@${remotes.account.url}`,
-        blog: `${remotes.blog.scope}@${remotes.blog.url}`,
+        //blog: `${remotes.blog.scope}@${remotes.blog.url}`,
         checkout: `${remotes.checkout.scope}@${remotes.checkout.url}`,
         product: `${remotes.product.scope}@${remotes.product.url}`,
         shared: `${remotes.shared.scope}@${remotes.shared.url}`,
-        chat: `${remotes.chat.scope}@${remotes.chat.url}`,
+        //chat: `${remotes.chat.scope}@${remotes.chat.url}`,
+        hoangnguyen: `${remotes.hoangnguyen.scope}@${remotes.hoangnguyen.url}`,
       },
       shared: {
         ...dependencies,
