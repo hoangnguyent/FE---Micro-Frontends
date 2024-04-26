@@ -26,5 +26,8 @@
       "shared",
       "main"
     ]
+  },
+  "dependencies": {
+    "webpack": "^5.91.0"
   }
 }
